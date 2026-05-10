@@ -1,0 +1,19 @@
+good morning sir,
+hello ima  karekal manoj gowd
+and i recently completed my b.e in computer science and engineering i am passikonate about devops and cloud technogies 
+and i have a hands-on practics in Linux,git,github,aws cloud ,docker,kubernetes and ansible for monitoring 
+in aws , i have worked on services like vpc,ec2,route tables,nat gateway and vpc peering connections and also there are different i worked handson 
+
+while working on aws it is not much easier simply to listen it may be easier but while working in reaktime hands on 
+it is like we have to find out the eroor where i missed the probnle like root caus e issue becaus ei
+
+i sufffered with poone probb,kem this may bee smalled but from gettng error it self we can able to learn 
+like i have launced one instance but it is not able to connect via ssh 
+here there may be a different types of scenario we can think
+
+one is security groups allownae in bounf and out bound and in internt gateway connectivity issue like this i
+i checked everything i got to know thar the issue like igw is not connected accidently it deleted in vpc 
+
+like this we can learn more from doing hands on
+
+
