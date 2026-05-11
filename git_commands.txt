@@ -1,0 +1,379 @@
+git
+git add :- to to add file into a version control system,
+git rm --cached <file> :- to remove from staging version
+git commit -m :--- to commit file into a vcs with added a note that what we have chanfes
+git status :- to check the file status after any changes or in which stage it is ther e like that tp check
+git restore :- to restore the files from the git to files system when the file is accidently deleted or if something happens then we can restore from it
+
+
+Mostly you dont have tp stay in a barach master because you it will be ruined whole project date you have to be a separate branch then have to push it into a git main branch.
+
+if we type history then we will get the whole history of what we entered in a terminal
+
+history 
+ll
+    2  ls
+    3  ls
+    4  ls
+    5  cd
+    6  cd /
+    7  cd d:git
+    8  ll
+    9  cd git-prac
+   10  ll
+   11  git status
+   12  git rm --pthon.py
+   13  ll
+   14  git status
+   15  git rm --cached pthon.py
+   16  git status
+   17  ls
+   18  git add pthon.py
+   19  git status
+   20  git commit -m "added to check the fiel"
+   21  ls
+   22  git status
+   23  nano manoj.py
+   24  ls
+   25  rm manoj.py pthon.py
+   26  ll
+   27  ls
+   28  clear
+   29  git status
+   30  git restore pthon.py
+   31  ll
+   32  ls
+   33  nano manoj.py
+   34  ll
+   35  git status
+   36  git add manoj.py
+   37  ll
+   38  ls
+   39  git status
+   40  rm -manoj.py pthon.py
+   41  rm manoj.py pthon,py
+   42  rm manoj.py pthon.py
+   43  ll
+   44  git status
+   45  git restore manoj.py pthon.py
+   46  ll
+   47  git status
+   48  git list
+   49  git --list all
+   50  git commit -m "added manoj file"
+   51  git manoj.py
+   52  ll
+   53  history
+   54  history
+
+git log to check the change scommited into a git
+git remote -v :- to fetch the origin
+git remote set-url origin https://(patcode)@github.com/username/repository
+git push origin master :-- to push the files from local to git.
+git clone https:// code take from code grren color
+
+1  ll
+    2  ls
+    3  ls
+    4  ls
+    5  cd
+    6  cd /
+    7  cd d:git
+    8  ll
+    9  cd git-prac
+   10  ll
+   11  git status
+   12  git rm --pthon.py
+   13  ll
+   14  git status
+   15  git rm --cached pthon.py
+   16  git status
+   17  ls
+   18  git add pthon.py
+   19  git status
+   20  git commit -m "added to check the fiel"
+   21  ls
+   22  git status
+   23  nano manoj.py
+   24  ls
+   25  rm manoj.py pthon.py
+   26  ll
+   27  ls
+   28  clear
+   29  git status
+   30  git restore pthon.py
+   31  ll
+   32  ls
+   33  nano manoj.py
+   34  ll
+   35  git status
+   36  git add manoj.py
+   37  ll
+   38  ls
+   39  git status
+   40  rm -manoj.py pthon.py
+   41  rm manoj.py pthon,py
+   42  rm manoj.py pthon.py
+   43  ll
+   44  git status
+   45  git restore manoj.py pthon.py
+   46  ll
+   47  git status
+   48  git list
+   49  git --list all
+   50  git commit -m "added manoj file"
+   51  git manoj.py
+   52  ll
+   53  history
+   54  history
+   55  git remote -v
+   56  cd d:
+   57  ll
+   58  cd git
+   59  ll
+   60  cd git-prac
+   61  ll
+   62  history
+   63  ll
+   64  git remote -v
+   65  git --version
+   66  git config --list
+   67  git remove config
+   68  git --help
+   69  git config --global user.name manoj001726
+   70  git config --list
+   71  cd
+   72  pwd
+   73  ll
+   74  cd manoj-1
+   75  ll
+   76  git init
+   77  ll
+   78  git init
+   79  ll
+   80  git status
+   81  vim manoj.txt
+   82  ll
+   83  cat manoj.txt
+   84  git statuus
+   85  git status
+   86  git add manoj.txt
+   87  ll
+   88  git status
+   89  git commit -m manoj.txt
+   90  ll
+   91  git status
+   92  git log
+   93  git branch -m manoj
+   94  ll
+   95  git remote -v
+   96  git remote -v
+   97  ll
+   98  touch karthik.py
+   99  touch yashu.py
+  100  ll
+  101  git add .
+  102  git status
+  103  git commit -m "added two more files"
+  104  git status
+  105  git log
+  106  git switch master
+  107  git switch branch master
+  108  git branch master
+  109  pwd
+  110  git branch switch master
+  111  git braanch
+  112  git branch
+  113  git branch master
+  114  git checkout master
+  115  history
+  116  git branch
+  117  git switch switch
+  118  git switch manoj
+  119  git switch master
+  120  ll
+  121  git status
+  122  git log --oneline
+  123  git shoe
+  124  git show
+  125  git giff
+  126  git dif
+  127  git diff
+  128  git diff --staged
+  129  git checkout yashu.py
+  130  git reset yashu.py
+  131  git status
+  132  ll
+  133  git switch manoj
+  134  git status
+  135  git reset manoj.txt
+  136  git satus
+  137  git status
+  138  git commit
+  139  touch manu.py
+  140  git status
+  141  git add manu.py
+  142  git reset manu.py
+  143  ll
+  144  git status
+  145  git add manu.py
+  146  ll
+  147  git status
+  148  fit commit manu.py
+  149  git commmit manu.py
+  150  git commit -m manu.py
+  151  git log
+  152  ll
+  153  pwd
+  154  cd d:
+  155  ll
+  156  cd git
+  157  ll
+  158  cd git-prac
+  159  ll
+  160  git yash.py
+  161  ll
+  162  cat yash.py
+  163  git status
+  164  ll
+  165  git log
+  166  git log --oneline
+  167  git config username
+  168  git config --username
+  169  git config user.name
+  170  git config --show-origin
+  171  gti help config
+  172  git help config
+  173  git help branch
+  174  yeah now we are learn git
+  175  git -help
+  176  git --version
+  177  touch mane.py
+  178  git status
+  179  git add mane.py
+  180  git status
+  181  git commit -m "update mane.py"
+  182  git status
+  183  git log
+  184  git --version
+  185  git remote -v
+  186  Cd D;
+  187  cd :
+  188  cd d:
+  189  ll
+  190  cd git
+  191  ll
+  192  cd git -prac
+  193  cd git-prac
+  194  ll
+  195  git remote -v
+  196  git remote set-url origin     pat  /manoj001726/github-for-devops-workshop
+  197  git remote -v
+  198  git pull
+  199  ll
+  200  git rm karthik.py
+  201  ll
+  202  git pull karthik.py
+  203  git log
+  204  git switch master
+  205  git status
+  206  ll
+  207  git pull origin main
+  208  ll
+  209  git branch main
+  210  git switch main
+  211  ll
+  212  git rm karthik.py man.py
+  213  l
+  214  ll
+  215  git pull origin main
+  216  ll
+  217  git pull origin main
+  218  git pull origin main karthik.py
+  219  git pull origin main
+  220  ll
+  221  git switch master
+  222  ll
+  223  git status
+  224  git log
+  225  ll
+  226  git branch
+  227  git switch manu
+  228  ll
+  229  ls
+  230  git remote-v
+  231  git remote -v
+  232  ll
+  233  git push manu
+  234  git push
+  235  git remote -v
+  236  git push origin manu
+  237  git ll
+  238  ll
+  239  rm .
+  240  rm - r .
+  241  rm README.md manoj.py manoj.txt manu.py nan.py pthon.py
+  242  ll
+  243  touch yesh.py
+  244  ll
+  245  git push origin manu
+  246  ll
+  247  git status
+  248  git add yesh.py
+  249  ll
+  250  git status
+  251  git commit -m "added yeswanth file"
+  252  ll
+  253  git push origin manu
+  254  git push origin manu
+  255  ll
+  256  ll
+  257  cd ../
+  258  ll
+  259  mkdir git-demo-new
+  260  cd git-demo-new
+  261  ll
+  262  git clone https://github.com/manoj001726/github-for-devops-work.git
+  263  ll
+  264  cd github-for-devops-work/
+  265  ll
+  266  git remote -v
+  267  ll
+  268  touch nan.py
+  269  ll
+  270  git push origin master
+  271  git push master
+  272  git remote set-url origin pat token/manoj001726/github-for-devops-work
+  273  git remote -v
+  274  ll
+  275  git push origin master
+  276  ll
+  277  git init
+  278  ll
+  279  git status
+  280  git add nan.py
+  281  ll
+  282  git status
+  283  git commit -m "added nan.py"
+  284  git remote -v
+  285  git push origin master
+  286  git remote set-url originpat token/manoj001726/github-for-devops-work
+  287  git remote -v
+  288  git push originmaster
+  289  git push origin master
+  290  cd ../
+  291  cd
+  292  cd D;
+  293  cd d
+  294  cd d:
+  295  ll
+  296  cd git
+  297  ll
+  298  cd git-prac
+  299  ll
+  300  git clone https://github.com/manoj001726/github-for-devops-work.git
+  301  ll
+  302  cd github-for-devops-work/
+  303  ll
+  304  historu
+  305  history
